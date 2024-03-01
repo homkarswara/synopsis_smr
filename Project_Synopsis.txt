@@ -1,0 +1,79 @@
+SYNOPSIS:
+COLLEGE EVENT MANAGEMENT SYSTEM
+Group Members: 
+Meena Khose 	- 236430
+Rupali Tarade 	- 236418
+Swarali Homkar - 236431
+ABSTRACT
+The “College Event Management System(CEMS)” project for the Fergusson College, whose purpose is to get updates about various types of running and upcoming events. This system is supported to phase out and in some cases reduce the manual work faced by the existing system. CEMS benefits modern technology to automate various aspects of event management, including scheduling, resource allocation, participant, Admin and volunteer registration.
+INTRODUCTION 
+It is very difficult and challenging to organize and manage events in college campus. From coordinating schedules and resources to engaging participants and finding volunteer’s. The complexities of event management demand efficient and effective solution. Realizing these  challenges the college event management system comes as a fundamental tool simplify the entire event life cycle within a college campus.
+Need:
+	For improving collaboration among organizers and participant and volunteer. Making it an essential tool for successful event planning. System ensure smooth, organized, and successful events while saving time, enhancing communication, and improving overall efficiency.
+
+OBJECTIVES:
+The main objective of the college event management system project is to provide a whole and efficient platform for planning organizing and managing events within the college campus.
+Compact Event Management:
+To develop a system that simplifies the entire event lifecycle from initial planning and building to participate registration and upcoming event evaluation.
+Upgrade communication:
+Implement strong communication tools to interaction between event organizer, participant, volunteer, improving coordination and involvement.
+Increased Participation: 
+Create user friendly features that encourage greater participation in college event. 
+Scope:
+This System includes the IT fields.
+Secure Administrative panel.
+Normal users are the participants.
+They have to register for the events.
+Users will have following functions:
+Easy communication with the manager
+Event time
+Get instant messages about any change Updates easily
+Will get winner certificate directly by downloading.
+
+
+Future Scope:
+The scope of college event management system in following key areas:
+Event planning and creation:
+Organizing various types of events such as academic conferences, club gatherings, cultural festivals, sports tournaments, etc.
+Event promotion and communication: 
+For effective promotion of events it includes features like sending announcements, remainder and invitation to specific group or individuals.
+Event Attendance Tracking:
+To monitor event attendance in real time participants, number of participants and demography.
+
+ 
+
+
+
+
+
+WORKING METHODOLOGY
+The working methodology of the CEMS system involves some steps for efficient planning execution and evaluation of event within a college campus.
+Requirement Analysis:
+This phase involves requirement from volunteer, event organizer(Admin), participants.
+System Design: 
+Based on the gathered requirement the system GUI, database design.
+Development:
+The system is developed according to the appropriate technologies and programming language.
+Testing: 
+Once the development is completed then to identify the bugs and issues.
+
+Hardware: 
+	Processor	: Intel core i3
+	RAM		: 8GB
+	ROM		: 256GB
+	OS		: Window 7,10,11
+Software:
+		Visual studio, Xampp server.
+Technology:
+	Languages 	: HTML, PHP, MYSQL, CSS, JAVASCRIPT
+LIMITATIONS:
+The system may have limitations in scalability performance and compatibility with a different devices and browsers.
+All user may not be understand and ready to new system.
+User may faces challenges to accessing poor and limited internet access if system is cloud based or relies heavily on internet connectivity.
+Cost issues including licensing fees and hosting fees and on going maintenance expanses.
+While system handled basic event management task its easy but complex event may require manual and additional customization.
+ 
+
+CONCLUSION:
+The college event management system allows the administrater to store the details of events and user details. The implementaion of the system will reduce the data entry , time, and also provide readly calculated reports. This system provides a computerized system that will benefit the students as well as the staff of the college. It also has a facility for teachers to login and also can add and maintain college events.
+
